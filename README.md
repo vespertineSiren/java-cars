@@ -36,7 +36,7 @@ returns the car based of of id
 /cars/year/{year}
 returns a list of cars of that year model
 
-/cars/year/{brand}
+/cars/brand/{brand}
 returns a list of cars of that brand
 
 ## POST
