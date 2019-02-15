@@ -1,10 +1,10 @@
 package com.lambdaschool.javacars;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -46,6 +46,33 @@ public class CarController {
                 .stream()
                 .filter(c -> c.getBrand().equalsIgnoreCase(brand))
                 .collect(Collectors.toList());
+    }
+
+    //POST
+    @PostMapping("/cars/upload")
+    public List<Car> newCar(@RequestBody List<Car> newCars){
+
+        CarLog message = new CarLog("Data loaded");
+        rt.convertAndSend(JavacarsApplication.QUEUE_NAME, message.toString());
+        log.info("Data loaded");
+
+        return carrepo.saveAll(newCars);
+    }
+
+    @DeleteMapping("/cars/delete/{id}")
+    public ObjectNode deleteEmployee(@PathVariable Long id)
+    {
+        carrepo.deleteById(id);
+
+        ObjectMapper mapper = new ObjectMapper();
+        ObjectNode deleted = mapper.createObjectNode();
+        deleted.put("id", id);
+
+        CarLog message = new CarLog("Deleted car " + id.toString());
+        rt.convertAndSend(JavacarsApplication.QUEUE_NAME, message.toString());
+        log.info("{" + id.toString() + "} Data deleted");
+
+        return deleted;
     }
 
 
