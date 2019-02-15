@@ -44,7 +44,7 @@ returns a list of cars of that brand
 loads multiple sets of data from the RequestBody
 This gets logged with a message of "Data loaded"
 
-## PUT
+## DELETE
 /cars/delete/{id}  
 deletes a car from the list based off of the id  
 This gets logged with a message of "{id} Data deleted". So, put the id of the car that got deleted in the message itself.
