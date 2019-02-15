@@ -1,5287 +1,5287 @@
 [
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "1 Series"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "1 Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "3 Series"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "3 Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "5 Series"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "5 Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "6 Series"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "6 Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "7 Series"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "7 Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "M3"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "M3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "X6"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "X6"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "M6"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "M6"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "Z4"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "Z4"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "X3"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "X3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "X5"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "X5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "M5"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "M5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "X5 M"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "X5 M"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "BMW",
-    "MODEL": "X6 M"
+    "year": 2010,
+    "brand": "BMW",
+    "model": "X6 M"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "CR-V"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "CR-V"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Civic"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Civic"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Ridgeline"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Ridgeline"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Accord"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Accord"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Odyssey"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Odyssey"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Pilot"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Pilot"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Insight"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Insight"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Fit"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Fit"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Element"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Element"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Honda",
-    "MODEL": "Accord Crosstour"
+    "year": 2010,
+    "brand": "Honda",
+    "model": "Accord Crosstour"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Jetta"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Jetta"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Passat"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Passat"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Routan"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Routan"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Eos"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Eos"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Touareg"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Touareg"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Rabbit"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Rabbit"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "GTI"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "GTI"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "CC"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "CC"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Tiguan"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Tiguan"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "Golf"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "Golf"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volkswagen",
-    "MODEL": "New Beetle"
+    "year": 2010,
+    "brand": "Volkswagen",
+    "model": "New Beetle"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLK-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "SLK-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "Sprinter"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "G-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "G-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "CLS-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "CLS-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "C-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "E-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "E-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "GL-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "GL-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "GLK-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "GLK-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "CL-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "CL-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "R-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "R-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "S-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "S-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "M-Class"
+    "year": 2010,
+    "brand": "Mercedes-Benz",
+    "model": "M-Class"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Aston Martin",
-    "MODEL": "Rapide"
+    "year": 2010,
+    "brand": "Aston Martin",
+    "model": "Rapide"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Aston Martin",
-    "MODEL": "V8 Vantage"
+    "year": 2010,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Aston Martin",
-    "MODEL": "DBS"
+    "year": 2010,
+    "brand": "Aston Martin",
+    "model": "DBS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Aston Martin",
-    "MODEL": "DB9"
+    "year": 2010,
+    "brand": "Aston Martin",
+    "model": "DB9"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Aston Martin",
-    "MODEL": "Vantage"
+    "year": 2010,
+    "brand": "Aston Martin",
+    "model": "Vantage"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Altima"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Altima"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Pathfinder"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Pathfinder"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Armada"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Armada"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "370Z"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "370Z"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Frontier"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Frontier"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "GT-R"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "GT-R"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Xterra"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Xterra"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Rogue"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Rogue"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Versa"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Versa"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Sentra"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Sentra"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Cube"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Cube"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Murano"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Murano"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Maxima"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Maxima"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Nissan",
-    "MODEL": "Titan"
+    "year": 2010,
+    "brand": "Nissan",
+    "model": "Titan"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Santa Fe"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Santa Fe"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Veracruz"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Veracruz"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Tucson"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Tucson"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Accent"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Accent"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Sonata"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Sonata"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Elantra"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Elantra"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Genesis"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Genesis"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Azera"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Azera"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Hyundai",
-    "MODEL": "Genesis Coupe"
+    "year": 2010,
+    "brand": "Hyundai",
+    "model": "Genesis Coupe"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Porsche",
-    "MODEL": 911
+    "year": 2010,
+    "brand": "Porsche",
+    "model": 911
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Porsche",
-    "MODEL": "Panamera"
+    "year": 2010,
+    "brand": "Porsche",
+    "model": "Panamera"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Porsche",
-    "MODEL": "Cayman"
+    "year": 2010,
+    "brand": "Porsche",
+    "model": "Cayman"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Porsche",
-    "MODEL": "Cayenne"
+    "year": 2010,
+    "brand": "Porsche",
+    "model": "Cayenne"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Porsche",
-    "MODEL": "Boxster"
+    "year": 2010,
+    "brand": "Porsche",
+    "model": "Boxster"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercury",
-    "MODEL": "Milan"
+    "year": 2010,
+    "brand": "Mercury",
+    "model": "Milan"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercury",
-    "MODEL": "Mariner"
+    "year": 2010,
+    "brand": "Mercury",
+    "model": "Mariner"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercury",
-    "MODEL": "Grand Marquis"
+    "year": 2010,
+    "brand": "Mercury",
+    "model": "Grand Marquis"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mercury",
-    "MODEL": "Mountaineer"
+    "year": 2010,
+    "brand": "Mercury",
+    "model": "Mountaineer"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "Freelander"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "Freelander"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover Sport"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "Range Rover Sport"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "Discovery"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "Discovery"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "Range Rover"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "LR2"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "LR2"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "LR4"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "LR4"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "CX-9"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "CX-9"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "Mazdaspeed 3"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "Mazdaspeed 3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "RX-8"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "RX-8"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "CX-7"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "CX-7"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "Tribute"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "Tribute"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda3"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "Mazda3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda6"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "Mazda6"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda5"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "Mazda5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "MX-5"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "MX-5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mazda",
-    "MODEL": "Miata MX-5"
+    "year": 2010,
+    "brand": "Mazda",
+    "model": "Miata MX-5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Tundra"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Tundra"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Camry Hybrid"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Camry Hybrid"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Avalon"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Avalon"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Sienna"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Sienna"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "FJ Cruiser"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "FJ Cruiser"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Matrix"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Matrix"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "RAV4"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "RAV4"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Highlander"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Highlander"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Yaris"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Yaris"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Camry"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Camry"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Venza"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Venza"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Tacoma"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Tacoma"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Prius"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Prius"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Sequoia"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Sequoia"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "4Runner"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "4Runner"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Land Cruiser"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Land Cruiser"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "Corolla"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "Corolla"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Toyota",
-    "MODEL": "TundraMax"
+    "year": 2010,
+    "brand": "Toyota",
+    "model": "TundraMax"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Soul"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Soul"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Optima"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Optima"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Sportage"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Sportage"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Sedona"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Sedona"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Forte"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Forte"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Rio"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Rio"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Kia",
-    "MODEL": "Rondo"
+    "year": 2010,
+    "brand": "Kia",
+    "model": "Rondo"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "QX56"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "QX56"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "M"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "M"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "G37"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "G37"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "EX"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "EX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "FX"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "FX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "G"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "G"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Infiniti",
-    "MODEL": "QX"
+    "year": 2010,
+    "brand": "Infiniti",
+    "model": "QX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Aveo"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Aveo"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Traverse"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Traverse"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Equinox"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Equinox"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Silverado"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "HHR"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "HHR"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Express"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Corvette"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Corvette"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Impala"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Impala"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Colorado"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Colorado"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Suburban"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Tahoe"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Tahoe"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Avalanche"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Avalanche"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Malibu"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Malibu"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Camaro"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Camaro"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Cobalt"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Cobalt"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 1500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Express 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 2500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Express 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 3500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Express 3500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 1500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Silverado 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 2500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Silverado 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 3500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Silverado 3500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban 1500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Suburban 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban 2500"
+    "year": 2010,
+    "brand": "Chevrolet",
+    "model": "Suburban 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Subaru",
-    "MODEL": "Impreza"
+    "year": 2010,
+    "brand": "Subaru",
+    "model": "Impreza"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Subaru",
-    "MODEL": "Tribeca"
+    "year": 2010,
+    "brand": "Subaru",
+    "model": "Tribeca"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Subaru",
-    "MODEL": "Legacy"
+    "year": 2010,
+    "brand": "Subaru",
+    "model": "Legacy"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Subaru",
-    "MODEL": "Forester"
+    "year": 2010,
+    "brand": "Subaru",
+    "model": "Forester"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Subaru",
-    "MODEL": "Impreza WRX"
+    "year": 2010,
+    "brand": "Subaru",
+    "model": "Impreza WRX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Subaru",
-    "MODEL": "Outback"
+    "year": 2010,
+    "brand": "Subaru",
+    "model": "Outback"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Maybach",
-    "MODEL": 57
+    "year": 2010,
+    "brand": "Maybach",
+    "model": 57
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Maybach",
-    "MODEL": 62
+    "year": 2010,
+    "brand": "Maybach",
+    "model": 62
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Maybach",
-    "MODEL": "Landaulet"
+    "year": 2010,
+    "brand": "Maybach",
+    "model": "Landaulet"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "Escalade"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "SRX"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "SRX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "DTS"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "DTS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "CTS-V"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "CTS-V"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "CTS"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "CTS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "STS"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "STS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade ESV"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "Escalade ESV"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade EXT"
+    "year": 2010,
+    "brand": "Cadillac",
+    "model": "Escalade EXT"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "Q7"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "Q7"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "Q5"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "Q5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "S5"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "S5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "TT"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "TT"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "A4"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "A4"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "A5"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "A5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "A8"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "A8"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "R8"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "R8"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "S4"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "S4"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "A6"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "A6"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "A3"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "A3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Audi",
-    "MODEL": "S6"
+    "year": 2010,
+    "brand": "Audi",
+    "model": "S6"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "Town Car"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "Town Car"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "MKX"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "MKX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "Navigator"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "Navigator"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "MKZ"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "MKZ"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "MKT"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "MKT"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "MKS"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "MKS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lincoln",
-    "MODEL": "Navigator L"
+    "year": 2010,
+    "brand": "Lincoln",
+    "model": "Navigator L"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Phantom"
+    "year": 2010,
+    "brand": "Rolls-Royce",
+    "model": "Phantom"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Ghost"
+    "year": 2010,
+    "brand": "Rolls-Royce",
+    "model": "Ghost"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Escape"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Escape"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Mustang"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Mustang"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Transit Connect"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Transit Connect"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "F-Series Super Duty"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "F-Series Super Duty"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "E-Series"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "E-Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Focus"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Focus"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Explorer"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Explorer"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Flex"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Flex"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Edge"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Edge"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "F-Series"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "F-Series"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Fusion"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Fusion"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Crown Victoria"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Crown Victoria"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Ranger"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Ranger"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Taurus"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Taurus"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Expedition"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Expedition"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "E150"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "E150"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "E250"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "E250"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "E350"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "E350"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Expedition EL"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Expedition EL"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "Explorer Sport Trac"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "Explorer Sport Trac"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "F150"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "F150"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "F250"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "F250"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "F350"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "F350"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ford",
-    "MODEL": "F450"
+    "year": 2010,
+    "brand": "Ford",
+    "model": "F450"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Caravan"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Caravan"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Viper"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Viper"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Charger"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Charger"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Journey"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Journey"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Caliber"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Caliber"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Ram"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Ram"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Challenger"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Challenger"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Nitro"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Nitro"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Avenger"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Avenger"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Dakota"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Dakota"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Grand Caravan"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Grand Caravan"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Ram 1500"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Ram 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Ram 2500"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Ram 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Dodge",
-    "MODEL": "Ram 3500"
+    "year": 2010,
+    "brand": "Dodge",
+    "model": "Ram 3500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "LS"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "LS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "GS"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "GS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "IS"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "IS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "IS-F"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "IS-F"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "LS Hybrid"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "LS Hybrid"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "LX"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "LX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "RX Hybrid"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "RX Hybrid"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "HS"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "HS"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "GX"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "GX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "RX"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "RX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "ES"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "ES"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "IS F"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "IS F"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lexus",
-    "MODEL": "SC"
+    "year": 2010,
+    "brand": "Lexus",
+    "model": "SC"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Lancer Evolution"
+    "year": 2010,
+    "brand": "Mitsubishi",
+    "model": "Lancer Evolution"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Eclipse"
+    "year": 2010,
+    "brand": "Mitsubishi",
+    "model": "Eclipse"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Lancer"
+    "year": 2010,
+    "brand": "Mitsubishi",
+    "model": "Lancer"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Galant"
+    "year": 2010,
+    "brand": "Mitsubishi",
+    "model": "Galant"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Endeavor"
+    "year": 2010,
+    "brand": "Mitsubishi",
+    "model": "Endeavor"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Outlander"
+    "year": 2010,
+    "brand": "Mitsubishi",
+    "model": "Outlander"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ferrari",
-    "MODEL": "458 Italia"
+    "year": 2010,
+    "brand": "Ferrari",
+    "model": "458 Italia"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ferrari",
-    "MODEL": "California"
+    "year": 2010,
+    "brand": "Ferrari",
+    "model": "California"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ferrari",
-    "MODEL": "612 Scaglietti"
+    "year": 2010,
+    "brand": "Ferrari",
+    "model": "612 Scaglietti"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Ferrari",
-    "MODEL": "599 GTB Fiorano"
+    "year": 2010,
+    "brand": "Ferrari",
+    "model": "599 GTB Fiorano"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Maserati",
-    "MODEL": "Quattroporte"
+    "year": 2010,
+    "brand": "Maserati",
+    "model": "Quattroporte"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Maserati",
-    "MODEL": "GranTurismo"
+    "year": 2010,
+    "brand": "Maserati",
+    "model": "GranTurismo"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Scion",
-    "MODEL": "xB"
+    "year": 2010,
+    "brand": "Scion",
+    "model": "xB"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Scion",
-    "MODEL": "tC"
+    "year": 2010,
+    "brand": "Scion",
+    "model": "tC"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Scion",
-    "MODEL": "xD"
+    "year": 2010,
+    "brand": "Scion",
+    "model": "xD"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "C30"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "C30"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "S40"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "S40"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "V50"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "V50"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "XC90"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "XC90"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "S60"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "S60"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "C70"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "C70"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "XC70"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "XC70"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "S80"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "S80"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "XC60"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "XC60"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Volvo",
-    "MODEL": "V70"
+    "year": 2010,
+    "brand": "Volvo",
+    "model": "V70"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jeep",
-    "MODEL": "Grand Cherokee"
+    "year": 2010,
+    "brand": "Jeep",
+    "model": "Grand Cherokee"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jeep",
-    "MODEL": "Commander"
+    "year": 2010,
+    "brand": "Jeep",
+    "model": "Commander"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jeep",
-    "MODEL": "Patriot"
+    "year": 2010,
+    "brand": "Jeep",
+    "model": "Patriot"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jeep",
-    "MODEL": "Compass"
+    "year": 2010,
+    "brand": "Jeep",
+    "model": "Compass"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jeep",
-    "MODEL": "Liberty"
+    "year": 2010,
+    "brand": "Jeep",
+    "model": "Liberty"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jeep",
-    "MODEL": "Wrangler"
+    "year": 2010,
+    "brand": "Jeep",
+    "model": "Wrangler"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lotus",
-    "MODEL": "Exige"
+    "year": 2010,
+    "brand": "Lotus",
+    "model": "Exige"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lotus",
-    "MODEL": "Elise"
+    "year": 2010,
+    "brand": "Lotus",
+    "model": "Elise"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lotus",
-    "MODEL": "Evora"
+    "year": 2010,
+    "brand": "Lotus",
+    "model": "Evora"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chrysler",
-    "MODEL": 300
+    "year": 2010,
+    "brand": "Chrysler",
+    "model": 300
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chrysler",
-    "MODEL": "Sebring"
+    "year": 2010,
+    "brand": "Chrysler",
+    "model": "Sebring"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chrysler",
-    "MODEL": "Town & Country"
+    "year": 2010,
+    "brand": "Chrysler",
+    "model": "Town & Country"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Chrysler",
-    "MODEL": "PT Cruiser"
+    "year": 2010,
+    "brand": "Chrysler",
+    "model": "PT Cruiser"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Savana"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Savana"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Sierra"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Sierra"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Canyon"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Canyon"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Terrain"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Terrain"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Yukon"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Yukon"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Acadia"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Acadia"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Savana 1500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Savana 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Savana 2500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Savana 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Savana 3500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Savana 3500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 1500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Sierra 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 2500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Sierra 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 3500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Sierra 3500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 1500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Yukon XL 1500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 2500"
+    "year": 2010,
+    "brand": "GMC",
+    "model": "Yukon XL 2500"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jaguar",
-    "MODEL": "XF"
+    "year": 2010,
+    "brand": "Jaguar",
+    "model": "XF"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jaguar",
-    "MODEL": "XK"
+    "year": 2010,
+    "brand": "Jaguar",
+    "model": "XK"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Jaguar",
-    "MODEL": "XJ"
+    "year": 2010,
+    "brand": "Jaguar",
+    "model": "XJ"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Brooklands"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Brooklands"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Azure"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Azure"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Continental Flying Spur"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Continental Flying Spur"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Continental Super"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Continental Super"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Continental GT"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Continental GT"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Continental GTC"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Continental GTC"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Azure T"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Azure T"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Bentley",
-    "MODEL": "Continental"
+    "year": 2010,
+    "brand": "Bentley",
+    "model": "Continental"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Suzuki",
-    "MODEL": "SX4"
+    "year": 2010,
+    "brand": "Suzuki",
+    "model": "SX4"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Suzuki",
-    "MODEL": "Grand Vitara"
+    "year": 2010,
+    "brand": "Suzuki",
+    "model": "Grand Vitara"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Suzuki",
-    "MODEL": "Equator"
+    "year": 2010,
+    "brand": "Suzuki",
+    "model": "Equator"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Suzuki",
-    "MODEL": "Kizashi"
+    "year": 2010,
+    "brand": "Suzuki",
+    "model": "Kizashi"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Saab",
-    "MODEL": "9-3"
+    "year": 2010,
+    "brand": "Saab",
+    "model": "9-3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Saab",
-    "MODEL": "9-5"
+    "year": 2010,
+    "brand": "Saab",
+    "model": "9-5"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Buick",
-    "MODEL": "Lucerne"
+    "year": 2010,
+    "brand": "Buick",
+    "model": "Lucerne"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Buick",
-    "MODEL": "LaCrosse"
+    "year": 2010,
+    "brand": "Buick",
+    "model": "LaCrosse"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Buick",
-    "MODEL": "Enclave"
+    "year": 2010,
+    "brand": "Buick",
+    "model": "Enclave"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lamborghini",
-    "MODEL": "Gallardo"
+    "year": 2010,
+    "brand": "Lamborghini",
+    "model": "Gallardo"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Lamborghini",
-    "MODEL": "Murci√©lago"
+    "year": 2010,
+    "brand": "Lamborghini",
+    "model": "Murci√©lago"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "MINI",
-    "MODEL": "Clubman"
+    "year": 2010,
+    "brand": "MINI",
+    "model": "Clubman"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "MINI",
-    "MODEL": "Cooper"
+    "year": 2010,
+    "brand": "MINI",
+    "model": "Cooper"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "MINI",
-    "MODEL": "Cooper Clubman"
+    "year": 2010,
+    "brand": "MINI",
+    "model": "Cooper Clubman"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Acura",
-    "MODEL": "TL"
+    "year": 2010,
+    "brand": "Acura",
+    "model": "TL"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Acura",
-    "MODEL": "RL"
+    "year": 2010,
+    "brand": "Acura",
+    "model": "RL"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Acura",
-    "MODEL": "ZDX"
+    "year": 2010,
+    "brand": "Acura",
+    "model": "ZDX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Acura",
-    "MODEL": "TSX"
+    "year": 2010,
+    "brand": "Acura",
+    "model": "TSX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Acura",
-    "MODEL": "MDX"
+    "year": 2010,
+    "brand": "Acura",
+    "model": "MDX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Acura",
-    "MODEL": "RDX"
+    "year": 2010,
+    "brand": "Acura",
+    "model": "RDX"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Tesla",
-    "MODEL": "Roadster"
+    "year": 2010,
+    "brand": "Tesla",
+    "model": "Roadster"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Smart",
-    "MODEL": "Fortwo"
+    "year": 2010,
+    "brand": "Smart",
+    "model": "Fortwo"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Aptera",
-    "MODEL": "Type-1h"
+    "year": 2010,
+    "brand": "Aptera",
+    "model": "Type-1h"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Land Rover",
-    "MODEL": "Defender Ice Edition"
+    "year": 2010,
+    "brand": "Land Rover",
+    "model": "Defender Ice Edition"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "HUMMER",
-    "MODEL": "H3"
+    "year": 2010,
+    "brand": "HUMMER",
+    "model": "H3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "HUMMER",
-    "MODEL": "H3T"
+    "year": 2010,
+    "brand": "HUMMER",
+    "model": "H3T"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Pontiac",
-    "MODEL": "G3"
+    "year": 2010,
+    "brand": "Pontiac",
+    "model": "G3"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Pontiac",
-    "MODEL": "G6"
+    "year": 2010,
+    "brand": "Pontiac",
+    "model": "G6"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Pontiac",
-    "MODEL": "Vibe"
+    "year": 2010,
+    "brand": "Pontiac",
+    "model": "Vibe"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Saturn",
-    "MODEL": "Outlook"
+    "year": 2010,
+    "brand": "Saturn",
+    "model": "Outlook"
   },
   {
-    "YEAR": 2010,
-    "BRAND": "Saturn",
-    "MODEL": "VUE"
+    "year": 2010,
+    "brand": "Saturn",
+    "model": "VUE"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Taurus"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Taurus"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Escape"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Escape"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "F-Series Super Duty"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "F-Series Super Duty"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Mustang"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Mustang"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Fusion"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Fusion"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "E-Series"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "E-Series"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Fiesta"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Fiesta"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Explorer"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Explorer"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Focus"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Focus"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "F-Series"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "F-Series"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Ranger"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Ranger"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Transit Connect"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Transit Connect"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Edge"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Edge"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Expedition"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Expedition"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Flex"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Flex"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "E150"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "E150"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "E250"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "E250"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "E350"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "E350"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Expedition EL"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Expedition EL"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "F150"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "F150"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "F250"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "F250"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "F350"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "F350"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "F450"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "F450"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ford",
-    "MODEL": "Crown Victoria"
+    "year": 2011,
+    "brand": "Ford",
+    "model": "Crown Victoria"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Yaris"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Yaris"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "4Runner"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "4Runner"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Camry"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Camry"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Sequoia"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Sequoia"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Land Cruiser"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Land Cruiser"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Avalon"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Avalon"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Matrix"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Matrix"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Tacoma"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Tacoma"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Prius"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Prius"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Highlander"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Highlander"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Tundra"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Tundra"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "FJ Cruiser"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "FJ Cruiser"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "RAV4"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "RAV4"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Corolla"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Corolla"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Sienna"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Sienna"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Venza"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Venza"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "Camry Hybrid"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "Camry Hybrid"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Toyota",
-    "MODEL": "TundraMax"
+    "year": 2011,
+    "brand": "Toyota",
+    "model": "TundraMax"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jaguar",
-    "MODEL": "XJ"
+    "year": 2011,
+    "brand": "Jaguar",
+    "model": "XJ"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jaguar",
-    "MODEL": "XK"
+    "year": 2011,
+    "brand": "Jaguar",
+    "model": "XK"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jaguar",
-    "MODEL": "XF"
+    "year": 2011,
+    "brand": "Jaguar",
+    "model": "XF"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "CX-9"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "CX-9"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda3"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "Mazda3"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "RX-8"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "RX-8"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda6"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "Mazda6"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "Mazdaspeed 3"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "Mazdaspeed 3"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda2"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "Mazda2"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "MX-5"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "MX-5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "Tribute"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "Tribute"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "CX-7"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "CX-7"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mazda",
-    "MODEL": "Miata MX-5"
+    "year": 2011,
+    "brand": "Mazda",
+    "model": "Miata MX-5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "GLK-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "GLK-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "S-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "S-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "CLS-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "CLS-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLK-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "SLK-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "E-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "E-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "GL-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "GL-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "C-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "G-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "G-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "CL-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "CL-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLS AMG"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "SLS AMG"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "R-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "R-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "Sprinter"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "M-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "M-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SL-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "SL-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLS-Class"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "SLS-Class"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "Sprinter 2500"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "Sprinter 3500"
+    "year": 2011,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter 3500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "S6"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "S6"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "S5"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "S5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "Q5"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "Q5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "A6"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "A6"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "TT"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "TT"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "A4"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "A4"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "A5"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "A5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "R8"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "R8"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "A8"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "A8"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "A3"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "A3"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "Q7"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "Q7"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Audi",
-    "MODEL": "S4"
+    "year": 2011,
+    "brand": "Audi",
+    "model": "S4"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Accord"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Accord"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Odyssey"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Odyssey"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Civic"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Civic"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Pilot"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Pilot"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Element"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Element"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Fit"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Fit"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "CR-Z"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "CR-Z"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Ridgeline"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Ridgeline"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "CR-V"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "CR-V"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Insight"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Insight"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Honda",
-    "MODEL": "Accord Crosstour"
+    "year": 2011,
+    "brand": "Honda",
+    "model": "Accord Crosstour"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jeep",
-    "MODEL": "Patriot"
+    "year": 2011,
+    "brand": "Jeep",
+    "model": "Patriot"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jeep",
-    "MODEL": "Grand Cherokee"
+    "year": 2011,
+    "brand": "Jeep",
+    "model": "Grand Cherokee"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jeep",
-    "MODEL": "Liberty"
+    "year": 2011,
+    "brand": "Jeep",
+    "model": "Liberty"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jeep",
-    "MODEL": "Wrangler"
+    "year": 2011,
+    "brand": "Jeep",
+    "model": "Wrangler"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Jeep",
-    "MODEL": "Compass"
+    "year": 2011,
+    "brand": "Jeep",
+    "model": "Compass"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "1 Series"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "1 Series"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "3 Series"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "3 Series"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "5 Series"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "5 Series"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "7 Series"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "7 Series"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "X6"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "X6"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "M3"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "M3"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "X3"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "X3"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "X5"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "X5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "Z4"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "Z4"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "X5 M"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "X5 M"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "BMW",
-    "MODEL": "X6 M"
+    "year": 2011,
+    "brand": "BMW",
+    "model": "X6 M"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "RX Hybrid"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "RX Hybrid"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "IS"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "IS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "GX"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "GX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "LS Hybrid"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "LS Hybrid"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "GS"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "GS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "LS"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "LS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "IS-F"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "IS-F"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "CT"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "CT"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "RX"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "RX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "HS"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "HS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "LX"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "LX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "ES"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "ES"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lexus",
-    "MODEL": "IS F"
+    "year": 2011,
+    "brand": "Lexus",
+    "model": "IS F"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Challenger"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Challenger"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Ram"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Ram"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Journey"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Journey"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Avenger"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Avenger"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Durango"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Durango"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Dakota"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Dakota"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Caliber"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Caliber"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Nitro"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Nitro"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Caravan"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Caravan"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Charger"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Charger"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Dodge",
-    "MODEL": "Grand Caravan"
+    "year": 2011,
+    "brand": "Dodge",
+    "model": "Grand Caravan"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Pathfinder"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Pathfinder"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Altima"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Altima"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Quest"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Quest"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Cube"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Cube"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Frontier"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Frontier"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Sentra"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Sentra"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Titan"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Titan"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Maxima"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Maxima"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "370Z"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "370Z"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "GT-R"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "GT-R"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Rogue"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Rogue"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Xterra"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Xterra"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Leaf"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Leaf"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Armada"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Armada"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Versa"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Versa"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "JUKE"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "JUKE"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Nissan",
-    "MODEL": "Murano"
+    "year": 2011,
+    "brand": "Nissan",
+    "model": "Murano"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Sierra"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Sierra"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Yukon"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Yukon"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Canyon"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Canyon"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Savana"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Savana"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Acadia"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Acadia"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Terrain"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Terrain"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Savana 1500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Savana 1500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Savana 2500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Savana 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Savana 3500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Savana 3500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 1500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Sierra 1500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 2500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Sierra 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 3500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Sierra 3500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 1500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Yukon XL 1500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 2500"
+    "year": 2011,
+    "brand": "GMC",
+    "model": "Yukon XL 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "MINI",
-    "MODEL": "Clubman"
+    "year": 2011,
+    "brand": "MINI",
+    "model": "Clubman"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "MINI",
-    "MODEL": "Countryman"
+    "year": 2011,
+    "brand": "MINI",
+    "model": "Countryman"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "MINI",
-    "MODEL": "Cooper"
+    "year": 2011,
+    "brand": "MINI",
+    "model": "Cooper"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "MINI",
-    "MODEL": "Cooper Clubman"
+    "year": 2011,
+    "brand": "MINI",
+    "model": "Cooper Clubman"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "MINI",
-    "MODEL": "Cooper Countryman"
+    "year": 2011,
+    "brand": "MINI",
+    "model": "Cooper Countryman"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Acura",
-    "MODEL": "RDX"
+    "year": 2011,
+    "brand": "Acura",
+    "model": "RDX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Acura",
-    "MODEL": "TSX"
+    "year": 2011,
+    "brand": "Acura",
+    "model": "TSX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Acura",
-    "MODEL": "ZDX"
+    "year": 2011,
+    "brand": "Acura",
+    "model": "ZDX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Acura",
-    "MODEL": "RL"
+    "year": 2011,
+    "brand": "Acura",
+    "model": "RL"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Acura",
-    "MODEL": "MDX"
+    "year": 2011,
+    "brand": "Acura",
+    "model": "MDX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Acura",
-    "MODEL": "TL"
+    "year": 2011,
+    "brand": "Acura",
+    "model": "TL"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Tahoe"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Tahoe"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Corvette"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Corvette"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Equinox"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Equinox"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Suburban"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Malibu"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Malibu"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Volt"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Volt"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Aveo"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Aveo"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "HHR"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "HHR"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Cruze"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Cruze"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Express"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Camaro"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Camaro"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Silverado"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Traverse"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Traverse"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Colorado"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Colorado"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Avalanche"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Avalanche"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Impala"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Impala"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 1500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Express 1500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 2500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Express 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 3500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Express 3500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 1500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Silverado 1500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 2500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Silverado 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 3500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Silverado 3500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban 1500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Suburban 1500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban 2500"
+    "year": 2011,
+    "brand": "Chevrolet",
+    "model": "Suburban 2500"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "V8 Vantage S"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage S"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "V8 Vantage"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "Rapide"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "Rapide"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "DBS"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "DBS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "V12 Vantage"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "V12 Vantage"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "Virage"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "Virage"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "DB9"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "DB9"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Aston Martin",
-    "MODEL": "Vantage"
+    "year": 2011,
+    "brand": "Aston Martin",
+    "model": "Vantage"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Bentley",
-    "MODEL": "Mulsanne"
+    "year": 2011,
+    "brand": "Bentley",
+    "model": "Mulsanne"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Bentley",
-    "MODEL": "Continental Super"
+    "year": 2011,
+    "brand": "Bentley",
+    "model": "Continental Super"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Bentley",
-    "MODEL": "Continental GTC"
+    "year": 2011,
+    "brand": "Bentley",
+    "model": "Continental GTC"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Bentley",
-    "MODEL": "Continental Flying Spur"
+    "year": 2011,
+    "brand": "Bentley",
+    "model": "Continental Flying Spur"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Bentley",
-    "MODEL": "Continental"
+    "year": 2011,
+    "brand": "Bentley",
+    "model": "Continental"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "Touareg"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "Touareg"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "Golf"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "Golf"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "Routan"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "Routan"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "CC"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "CC"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "Jetta"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "Jetta"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "GTI"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "GTI"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "Eos"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "Eos"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volkswagen",
-    "MODEL": "Tiguan"
+    "year": 2011,
+    "brand": "Volkswagen",
+    "model": "Tiguan"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "EX"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "EX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "G25"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "G25"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "G37"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "G37"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "QX56"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "QX56"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "FX"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "FX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "M"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "M"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "IPL G"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "IPL G"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "G"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "G"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Infiniti",
-    "MODEL": "QX"
+    "year": 2011,
+    "brand": "Infiniti",
+    "model": "QX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Subaru",
-    "MODEL": "Legacy"
+    "year": 2011,
+    "brand": "Subaru",
+    "model": "Legacy"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Subaru",
-    "MODEL": "Impreza WRX"
+    "year": 2011,
+    "brand": "Subaru",
+    "model": "Impreza WRX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Subaru",
-    "MODEL": "Impreza"
+    "year": 2011,
+    "brand": "Subaru",
+    "model": "Impreza"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Subaru",
-    "MODEL": "Outback"
+    "year": 2011,
+    "brand": "Subaru",
+    "model": "Outback"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Subaru",
-    "MODEL": "Tribeca"
+    "year": 2011,
+    "brand": "Subaru",
+    "model": "Tribeca"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Subaru",
-    "MODEL": "Forester"
+    "year": 2011,
+    "brand": "Subaru",
+    "model": "Forester"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Saab",
-    "MODEL": "9-3"
+    "year": 2011,
+    "brand": "Saab",
+    "model": "9-3"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Saab",
-    "MODEL": "9-5"
+    "year": 2011,
+    "brand": "Saab",
+    "model": "9-5"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Saab",
-    "MODEL": "9-4X"
+    "year": 2011,
+    "brand": "Saab",
+    "model": "9-4X"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Porsche",
-    "MODEL": 911
+    "year": 2011,
+    "brand": "Porsche",
+    "model": 911
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Porsche",
-    "MODEL": "Cayenne"
+    "year": 2011,
+    "brand": "Porsche",
+    "model": "Cayenne"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Porsche",
-    "MODEL": "Panamera"
+    "year": 2011,
+    "brand": "Porsche",
+    "model": "Panamera"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Porsche",
-    "MODEL": "Boxster"
+    "year": 2011,
+    "brand": "Porsche",
+    "model": "Boxster"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Porsche",
-    "MODEL": "Cayman"
+    "year": 2011,
+    "brand": "Porsche",
+    "model": "Cayman"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Land Rover",
-    "MODEL": "Freelander"
+    "year": 2011,
+    "brand": "Land Rover",
+    "model": "Freelander"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover Sport"
+    "year": 2011,
+    "brand": "Land Rover",
+    "model": "Range Rover Sport"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover"
+    "year": 2011,
+    "brand": "Land Rover",
+    "model": "Range Rover"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Land Rover",
-    "MODEL": "Discovery"
+    "year": 2011,
+    "brand": "Land Rover",
+    "model": "Discovery"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Land Rover",
-    "MODEL": "LR2"
+    "year": 2011,
+    "brand": "Land Rover",
+    "model": "LR2"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Land Rover",
-    "MODEL": "LR4"
+    "year": 2011,
+    "brand": "Land Rover",
+    "model": "LR4"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Buick",
-    "MODEL": "LaCrosse"
+    "year": 2011,
+    "brand": "Buick",
+    "model": "LaCrosse"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Buick",
-    "MODEL": "Regal"
+    "year": 2011,
+    "brand": "Buick",
+    "model": "Regal"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Buick",
-    "MODEL": "Lucerne"
+    "year": 2011,
+    "brand": "Buick",
+    "model": "Lucerne"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Buick",
-    "MODEL": "Enclave"
+    "year": 2011,
+    "brand": "Buick",
+    "model": "Enclave"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Scion",
-    "MODEL": "tC"
+    "year": 2011,
+    "brand": "Scion",
+    "model": "tC"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Scion",
-    "MODEL": "xB"
+    "year": 2011,
+    "brand": "Scion",
+    "model": "xB"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Scion",
-    "MODEL": "xD"
+    "year": 2011,
+    "brand": "Scion",
+    "model": "xD"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lotus",
-    "MODEL": "Elise"
+    "year": 2011,
+    "brand": "Lotus",
+    "model": "Elise"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lotus",
-    "MODEL": "Evora"
+    "year": 2011,
+    "brand": "Lotus",
+    "model": "Evora"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lotus",
-    "MODEL": "Exige"
+    "year": 2011,
+    "brand": "Lotus",
+    "model": "Exige"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Optima"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Optima"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Forte"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Forte"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Rio"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Rio"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Sedona"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Sedona"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Sorento"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Sorento"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Sportage"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Sportage"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Kia",
-    "MODEL": "Soul"
+    "year": 2011,
+    "brand": "Kia",
+    "model": "Soul"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Elantra"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Elantra"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Sonata"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Sonata"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Genesis"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Genesis"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Santa Fe"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Santa Fe"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Tucson"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Tucson"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Equus"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Equus"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Veracruz"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Veracruz"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Accent"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Accent"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Azera"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Azera"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Hyundai",
-    "MODEL": "Genesis Coupe"
+    "year": 2011,
+    "brand": "Hyundai",
+    "model": "Genesis Coupe"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Suzuki",
-    "MODEL": "Grand Vitara"
+    "year": 2011,
+    "brand": "Suzuki",
+    "model": "Grand Vitara"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Suzuki",
-    "MODEL": "SX4"
+    "year": 2011,
+    "brand": "Suzuki",
+    "model": "SX4"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Suzuki",
-    "MODEL": "Kizashi"
+    "year": 2011,
+    "brand": "Suzuki",
+    "model": "Kizashi"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Suzuki",
-    "MODEL": "Equator"
+    "year": 2011,
+    "brand": "Suzuki",
+    "model": "Equator"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Smart",
-    "MODEL": "Fortwo"
+    "year": 2011,
+    "brand": "Smart",
+    "model": "Fortwo"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "C30"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "C30"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "V50"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "V50"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "XC90"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "XC90"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "S60"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "S60"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "XC60"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "XC60"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "XC70"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "XC70"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "C70"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "C70"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "S80"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "S80"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Volvo",
-    "MODEL": "S40"
+    "year": 2011,
+    "brand": "Volvo",
+    "model": "S40"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Phantom"
+    "year": 2011,
+    "brand": "Rolls-Royce",
+    "model": "Phantom"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Ghost"
+    "year": 2011,
+    "brand": "Rolls-Royce",
+    "model": "Ghost"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "Navigator"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "Navigator"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "MKT"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "MKT"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "MKS"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "MKS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "MKZ"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "MKZ"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "Town Car"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "Town Car"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "MKX"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "MKX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lincoln",
-    "MODEL": "Navigator L"
+    "year": 2011,
+    "brand": "Lincoln",
+    "model": "Navigator L"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Eclipse"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Eclipse"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Outlander"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Outlander"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Endeavor"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Endeavor"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Lancer"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Lancer"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Galant"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Galant"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Lancer Evolution"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Lancer Evolution"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Outlander Sport"
+    "year": 2011,
+    "brand": "Mitsubishi",
+    "model": "Outlander Sport"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercury",
-    "MODEL": "Mariner"
+    "year": 2011,
+    "brand": "Mercury",
+    "model": "Mariner"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercury",
-    "MODEL": "Grand Marquis"
+    "year": 2011,
+    "brand": "Mercury",
+    "model": "Grand Marquis"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Mercury",
-    "MODEL": "Milan"
+    "year": 2011,
+    "brand": "Mercury",
+    "model": "Milan"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Maserati",
-    "MODEL": "GranTurismo"
+    "year": 2011,
+    "brand": "Maserati",
+    "model": "GranTurismo"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Maserati",
-    "MODEL": "Quattroporte"
+    "year": 2011,
+    "brand": "Maserati",
+    "model": "Quattroporte"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chrysler",
-    "MODEL": 200
+    "year": 2011,
+    "brand": "Chrysler",
+    "model": 200
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chrysler",
-    "MODEL": 300
+    "year": 2011,
+    "brand": "Chrysler",
+    "model": 300
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Chrysler",
-    "MODEL": "Town & Country"
+    "year": 2011,
+    "brand": "Chrysler",
+    "model": "Town & Country"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "DTS"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "DTS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "CTS-V"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "CTS-V"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "CTS"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "CTS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "STS"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "STS"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "SRX"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "SRX"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "Escalade"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade ESV"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "Escalade ESV"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade EXT"
+    "year": 2011,
+    "brand": "Cadillac",
+    "model": "Escalade EXT"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Maybach",
-    "MODEL": 57
+    "year": 2011,
+    "brand": "Maybach",
+    "model": 57
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Maybach",
-    "MODEL": 62
+    "year": 2011,
+    "brand": "Maybach",
+    "model": 62
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Maybach",
-    "MODEL": "Landaulet"
+    "year": 2011,
+    "brand": "Maybach",
+    "model": "Landaulet"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ferrari",
-    "MODEL": "458 Italia"
+    "year": 2011,
+    "brand": "Ferrari",
+    "model": "458 Italia"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Bugatti",
-    "MODEL": "Veyron"
+    "year": 2011,
+    "brand": "Bugatti",
+    "model": "Veyron"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Lamborghini",
-    "MODEL": "Gallardo"
+    "year": 2011,
+    "brand": "Lamborghini",
+    "model": "Gallardo"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Tesla",
-    "MODEL": "Roadster"
+    "year": 2011,
+    "brand": "Tesla",
+    "model": "Roadster"
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ram",
-    "MODEL": 1500
+    "year": 2011,
+    "brand": "Ram",
+    "model": 1500
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ram",
-    "MODEL": 2500
+    "year": 2011,
+    "brand": "Ram",
+    "model": 2500
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ram",
-    "MODEL": 3500
+    "year": 2011,
+    "brand": "Ram",
+    "model": 3500
   },
   {
-    "YEAR": 2011,
-    "BRAND": "Ram",
-    "MODEL": "Dakota"
+    "year": 2011,
+    "brand": "Ram",
+    "model": "Dakota"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Porsche",
-    "MODEL": 911
+    "year": 2012,
+    "brand": "Porsche",
+    "model": 911
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Porsche",
-    "MODEL": "Cayenne"
+    "year": 2012,
+    "brand": "Porsche",
+    "model": "Cayenne"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Porsche",
-    "MODEL": "Panamera"
+    "year": 2012,
+    "brand": "Porsche",
+    "model": "Panamera"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Porsche",
-    "MODEL": "Boxster"
+    "year": 2012,
+    "brand": "Porsche",
+    "model": "Boxster"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Porsche",
-    "MODEL": "Cayman"
+    "year": 2012,
+    "brand": "Porsche",
+    "model": "Cayman"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Altima"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Altima"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "370Z"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "370Z"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Murano"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Murano"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Armada"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Armada"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Pathfinder"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Pathfinder"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Leaf"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Leaf"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Xterra"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Xterra"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Titan"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Titan"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "JUKE"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "JUKE"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Rogue"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Rogue"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Maxima"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Maxima"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Versa"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Versa"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Quest"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Quest"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Sentra"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Sentra"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "GT-R"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "GT-R"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "cube"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "cube"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "Frontier"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "Frontier"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "NV1500"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "NV1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "NV2500"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "NV2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Nissan",
-    "MODEL": "NV3500"
+    "year": 2012,
+    "brand": "Nissan",
+    "model": "NV3500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Cadillac",
-    "MODEL": "CTS"
+    "year": 2012,
+    "brand": "Cadillac",
+    "model": "CTS"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Cadillac",
-    "MODEL": "CTS-V"
+    "year": 2012,
+    "brand": "Cadillac",
+    "model": "CTS-V"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade"
+    "year": 2012,
+    "brand": "Cadillac",
+    "model": "Escalade"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Cadillac",
-    "MODEL": "SRX"
+    "year": 2012,
+    "brand": "Cadillac",
+    "model": "SRX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade ESV"
+    "year": 2012,
+    "brand": "Cadillac",
+    "model": "Escalade ESV"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Cadillac",
-    "MODEL": "Escalade EXT"
+    "year": 2012,
+    "brand": "Cadillac",
+    "model": "Escalade EXT"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "A3"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "A3"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "R8"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "R8"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "A6"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "A6"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "Q5"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "Q5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "A5"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "A5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "A8"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "A8"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "TT"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "TT"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "A7"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "A7"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "S5"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "S5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "A4"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "A4"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "Q7"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "Q7"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Audi",
-    "MODEL": "S4"
+    "year": 2012,
+    "brand": "Audi",
+    "model": "S4"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Jetta"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Jetta"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Golf"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Golf"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Routan"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Routan"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Touareg"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Touareg"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Eos"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Eos"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "New Beetle"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "New Beetle"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Passat"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Passat"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "Tiguan"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Tiguan"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "GTI"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "GTI"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volkswagen",
-    "MODEL": "CC"
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "CC"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover"
+    "year": 2012,
+    "brand": "Land Rover",
+    "model": "Range Rover"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Land Rover",
-    "MODEL": "Discovery"
+    "year": 2012,
+    "brand": "Land Rover",
+    "model": "Discovery"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover Sport"
+    "year": 2012,
+    "brand": "Land Rover",
+    "model": "Range Rover Sport"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Land Rover",
-    "MODEL": "Range Rover Evoque"
+    "year": 2012,
+    "brand": "Land Rover",
+    "model": "Range Rover Evoque"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Land Rover",
-    "MODEL": "LR2"
+    "year": 2012,
+    "brand": "Land Rover",
+    "model": "LR2"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Land Rover",
-    "MODEL": "LR4"
+    "year": 2012,
+    "brand": "Land Rover",
+    "model": "LR4"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Odyssey"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Odyssey"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Accord"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Accord"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Civic"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Civic"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Ridgeline"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Ridgeline"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Fit"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Fit"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Insight"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Insight"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "CR-Z"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "CR-Z"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Pilot"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Pilot"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "FCX Clarity"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "FCX Clarity"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "Crosstour"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "Crosstour"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Honda",
-    "MODEL": "CR-V"
+    "year": 2012,
+    "brand": "Honda",
+    "model": "CR-V"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "HED-5"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "HED-5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Genesis"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Genesis"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Accent"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Accent"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Equus"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Equus"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Santa Fe"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Santa Fe"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Elantra"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Elantra"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Veracruz"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Veracruz"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Sonata"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Sonata"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Tucson"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Tucson"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Veloster"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Veloster"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Hyundai",
-    "MODEL": "Azera"
+    "year": 2012,
+    "brand": "Hyundai",
+    "model": "Azera"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Focus"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Focus"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Mustang"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Mustang"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "F-Series Super Duty"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "F-Series Super Duty"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "E-Series"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "E-Series"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Transit Connect"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Transit Connect"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Flex"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Flex"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Escape"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Escape"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Fusion"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Fusion"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Taurus"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Taurus"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Fiesta"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Fiesta"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Explorer"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Explorer"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Expedition"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Expedition"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Edge"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Edge"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "E150"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "E150"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "E250"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "E250"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "E350"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "E350"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "Expedition EL"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "Expedition EL"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "F150"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "F150"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "F250"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "F250"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "F350"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "F350"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ford",
-    "MODEL": "F450"
+    "year": 2012,
+    "brand": "Ford",
+    "model": "F450"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Canyon"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Canyon"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Yukon"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Yukon"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Sierra"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Sierra"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Acadia"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Acadia"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Terrain"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Terrain"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Savana"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Savana"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Savana 1500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Savana 1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Savana 2500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Savana 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Savana 3500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Savana 3500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 1500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Sierra 1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 2500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Sierra 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 3500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Sierra 3500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 1500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Yukon XL 1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 2500"
+    "year": 2012,
+    "brand": "GMC",
+    "model": "Yukon XL 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Saab",
-    "MODEL": "9-3"
+    "year": 2012,
+    "brand": "Saab",
+    "model": "9-3"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "C30"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "C30"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "XC70"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "XC70"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "XC60"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "XC60"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "XC90"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "XC90"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "C70"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "C70"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "S80"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "S80"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Volvo",
-    "MODEL": "S60"
+    "year": 2012,
+    "brand": "Volvo",
+    "model": "S60"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Corvette"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Corvette"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Colorado"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Colorado"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Volt"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Volt"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Express"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Sonic"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Sonic"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Camaro"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Camaro"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Cruze"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Cruze"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Malibu"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Malibu"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Traverse"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Traverse"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Equinox"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Equinox"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Impala"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Impala"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Avalanche"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Avalanche"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 1500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Express 1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 2500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Express 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Express 3500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Express 3500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 1500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Silverado 1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 2500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Silverado 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Silverado 3500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Silverado 3500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban 1500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Suburban 1500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Suburban 2500"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Suburban 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chevrolet",
-    "MODEL": "Tahoe"
+    "year": 2012,
+    "brand": "Chevrolet",
+    "model": "Tahoe"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "MINI",
-    "MODEL": "Cooper"
+    "year": 2012,
+    "brand": "MINI",
+    "model": "Cooper"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "MINI",
-    "MODEL": "Countryman"
+    "year": 2012,
+    "brand": "MINI",
+    "model": "Countryman"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "MINI",
-    "MODEL": "Clubman"
+    "year": 2012,
+    "brand": "MINI",
+    "model": "Clubman"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "MINI",
-    "MODEL": "Cooper Clubman"
+    "year": 2012,
+    "brand": "MINI",
+    "model": "Cooper Clubman"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "MINI",
-    "MODEL": "Cooper Countryman"
+    "year": 2012,
+    "brand": "MINI",
+    "model": "Cooper Countryman"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "1 Series"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "1 Series"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "3 Series"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "3 Series"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "5 Series"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "5 Series"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "6 Series"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "6 Series"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "7 Series"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "7 Series"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "M3"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "M3"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "X3"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "X3"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "X5"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "X5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "X5 M"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "X5 M"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "X6"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "X6"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "X6 M"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "X6 M"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "BMW",
-    "MODEL": "Z4"
+    "year": 2012,
+    "brand": "BMW",
+    "model": "Z4"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lincoln",
-    "MODEL": "MKX"
+    "year": 2012,
+    "brand": "Lincoln",
+    "model": "MKX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lincoln",
-    "MODEL": "Navigator"
+    "year": 2012,
+    "brand": "Lincoln",
+    "model": "Navigator"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lincoln",
-    "MODEL": "MKS"
+    "year": 2012,
+    "brand": "Lincoln",
+    "model": "MKS"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lincoln",
-    "MODEL": "MKT"
+    "year": 2012,
+    "brand": "Lincoln",
+    "model": "MKT"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lincoln",
-    "MODEL": "MKZ"
+    "year": 2012,
+    "brand": "Lincoln",
+    "model": "MKZ"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lincoln",
-    "MODEL": "Navigator L"
+    "year": 2012,
+    "brand": "Lincoln",
+    "model": "Navigator L"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "4Runner"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "4Runner"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Highlander"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Highlander"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Yaris"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Yaris"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Prius v"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Prius v"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "FJ Cruiser"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "FJ Cruiser"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Camry Hybrid"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Camry Hybrid"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Sequoia"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Sequoia"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "RAV4"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "RAV4"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Sienna"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Sienna"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Camry"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Camry"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Prius Plug-in Hybrid"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Prius Plug-in Hybrid"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Avalon"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Avalon"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Corolla"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Corolla"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Matrix"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Matrix"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Prius"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Prius"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Prius c"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Prius c"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Prius Plug-in"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Prius Plug-in"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Tacoma"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Tacoma"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "TundraMax"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "TundraMax"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Tundra"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Tundra"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Toyota",
-    "MODEL": "Venza"
+    "year": 2012,
+    "brand": "Toyota",
+    "model": "Venza"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Acura",
-    "MODEL": "ZDX"
+    "year": 2012,
+    "brand": "Acura",
+    "model": "ZDX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Acura",
-    "MODEL": "MDX"
+    "year": 2012,
+    "brand": "Acura",
+    "model": "MDX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Acura",
-    "MODEL": "TSX"
+    "year": 2012,
+    "brand": "Acura",
+    "model": "TSX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Acura",
-    "MODEL": "TL"
+    "year": 2012,
+    "brand": "Acura",
+    "model": "TL"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Acura",
-    "MODEL": "RL"
+    "year": 2012,
+    "brand": "Acura",
+    "model": "RL"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Acura",
-    "MODEL": "RDX"
+    "year": 2012,
+    "brand": "Acura",
+    "model": "RDX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "G-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "G-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "CLS-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "CLS-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "GL-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "GL-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "E-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "E-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "GLK-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "GLK-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLS AMG"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "SLS AMG"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "S-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "S-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "CL-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "CL-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "C-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SL-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "SL-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "M-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "M-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "R-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "R-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLK-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "SLK-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "SLS-Class"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "SLS-Class"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "Sprinter 2500"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter 2500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mercedes-Benz",
-    "MODEL": "Sprinter 3500"
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter 3500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "FX"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "FX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "M"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "M"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "G37"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "G37"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "G25"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "G25"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "QX56"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "QX56"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "IPL G"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "IPL G"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "EX"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "EX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "G"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "G"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Infiniti",
-    "MODEL": "QX"
+    "year": 2012,
+    "brand": "Infiniti",
+    "model": "QX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "DBS"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "DBS"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "DB9"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "DB9"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "V12 Vantage"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "V12 Vantage"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "Virage"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "Virage"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "V8 Vantage"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "Rapide"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "Rapide"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Aston Martin",
-    "MODEL": "V8 Vantage S"
+    "year": 2012,
+    "brand": "Aston Martin",
+    "model": "V8 Vantage S"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "RX"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "RX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "LS"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "LS"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "IS"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "IS"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "IS-F"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "IS-F"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "CT"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "CT"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "RX Hybrid"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "RX Hybrid"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "LS Hybrid"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "LS Hybrid"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "ES"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "ES"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "LFA"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "LFA"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "HS"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "HS"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lexus",
-    "MODEL": "GX"
+    "year": 2012,
+    "brand": "Lexus",
+    "model": "GX"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "FIAT",
-    "MODEL": 500
+    "year": 2012,
+    "brand": "FIAT",
+    "model": 500
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Fiat",
-    "MODEL": "Nuova 500"
+    "year": 2012,
+    "brand": "Fiat",
+    "model": "Nuova 500"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Avenger"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Avenger"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Caravan"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Caravan"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Charger"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Charger"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Challenger"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Challenger"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Caliber"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Caliber"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Durango"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Durango"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Journey"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Journey"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Dodge",
-    "MODEL": "Grand Caravan"
+    "year": 2012,
+    "brand": "Dodge",
+    "model": "Grand Caravan"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Suzuki",
-    "MODEL": "Kizashi"
+    "year": 2012,
+    "brand": "Suzuki",
+    "model": "Kizashi"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Suzuki",
-    "MODEL": "Grand Vitara"
+    "year": 2012,
+    "brand": "Suzuki",
+    "model": "Grand Vitara"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Suzuki",
-    "MODEL": "Equator"
+    "year": 2012,
+    "brand": "Suzuki",
+    "model": "Equator"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Suzuki",
-    "MODEL": "SX4"
+    "year": 2012,
+    "brand": "Suzuki",
+    "model": "SX4"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Subaru",
-    "MODEL": "Legacy"
+    "year": 2012,
+    "brand": "Subaru",
+    "model": "Legacy"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Subaru",
-    "MODEL": "Impreza"
+    "year": 2012,
+    "brand": "Subaru",
+    "model": "Impreza"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Subaru",
-    "MODEL": "Forester"
+    "year": 2012,
+    "brand": "Subaru",
+    "model": "Forester"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Subaru",
-    "MODEL": "Tribeca"
+    "year": 2012,
+    "brand": "Subaru",
+    "model": "Tribeca"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Subaru",
-    "MODEL": "Outback"
+    "year": 2012,
+    "brand": "Subaru",
+    "model": "Outback"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ferrari",
-    "MODEL": "458 Italia"
+    "year": 2012,
+    "brand": "Ferrari",
+    "model": "458 Italia"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ferrari",
-    "MODEL": "FF"
+    "year": 2012,
+    "brand": "Ferrari",
+    "model": "FF"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Smart",
-    "MODEL": "Fortwo"
+    "year": 2012,
+    "brand": "Smart",
+    "model": "Fortwo"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jaguar",
-    "MODEL": "XF"
+    "year": 2012,
+    "brand": "Jaguar",
+    "model": "XF"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jaguar",
-    "MODEL": "XK"
+    "year": 2012,
+    "brand": "Jaguar",
+    "model": "XK"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jaguar",
-    "MODEL": "XJ"
+    "year": 2012,
+    "brand": "Jaguar",
+    "model": "XJ"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jeep",
-    "MODEL": "Wrangler"
+    "year": 2012,
+    "brand": "Jeep",
+    "model": "Wrangler"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jeep",
-    "MODEL": "Compass"
+    "year": 2012,
+    "brand": "Jeep",
+    "model": "Compass"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jeep",
-    "MODEL": "Grand Cherokee"
+    "year": 2012,
+    "brand": "Jeep",
+    "model": "Grand Cherokee"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jeep",
-    "MODEL": "Patriot"
+    "year": 2012,
+    "brand": "Jeep",
+    "model": "Patriot"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Jeep",
-    "MODEL": "Liberty"
+    "year": 2012,
+    "brand": "Jeep",
+    "model": "Liberty"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda5"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "Mazda5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda2"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "Mazda2"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "CX-9"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "CX-9"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "MX-5"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "MX-5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda6"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "Mazda6"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "Mazda3"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "Mazda3"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "Mazdaspeed 3"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "Mazdaspeed 3"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "CX-7"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "CX-7"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mazda",
-    "MODEL": "Miata MX-5"
+    "year": 2012,
+    "brand": "Mazda",
+    "model": "Miata MX-5"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lamborghini",
-    "MODEL": "Gallardo"
+    "year": 2012,
+    "brand": "Lamborghini",
+    "model": "Gallardo"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lamborghini",
-    "MODEL": "Aventador"
+    "year": 2012,
+    "brand": "Lamborghini",
+    "model": "Aventador"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Tesla",
-    "MODEL": "Model S"
+    "year": 2012,
+    "brand": "Tesla",
+    "model": "model S"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Tesla",
-    "MODEL": "Roadster"
+    "year": 2012,
+    "brand": "Tesla",
+    "model": "Roadster"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Buick",
-    "MODEL": "Verano"
+    "year": 2012,
+    "brand": "Buick",
+    "model": "Verano"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Buick",
-    "MODEL": "LaCrosse"
+    "year": 2012,
+    "brand": "Buick",
+    "model": "LaCrosse"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Buick",
-    "MODEL": "Regal"
+    "year": 2012,
+    "brand": "Buick",
+    "model": "Regal"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Buick",
-    "MODEL": "Enclave"
+    "year": 2012,
+    "brand": "Buick",
+    "model": "Enclave"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chrysler",
-    "MODEL": 200
+    "year": 2012,
+    "brand": "Chrysler",
+    "model": 200
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chrysler",
-    "MODEL": 300
+    "year": 2012,
+    "brand": "Chrysler",
+    "model": 300
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Chrysler",
-    "MODEL": "Town & Country"
+    "year": 2012,
+    "brand": "Chrysler",
+    "model": "Town & Country"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Sportage"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Sportage"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Forte"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Forte"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Optima"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Optima"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Sedona"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Sedona"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Soul"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Soul"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Sorento"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Sorento"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Kia",
-    "MODEL": "Rio"
+    "year": 2012,
+    "brand": "Kia",
+    "model": "Rio"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lotus",
-    "MODEL": "Exige"
+    "year": 2012,
+    "brand": "Lotus",
+    "model": "Exige"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Lotus",
-    "MODEL": "Evora"
+    "year": 2012,
+    "brand": "Lotus",
+    "model": "Evora"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Bentley",
-    "MODEL": "Continental GT"
+    "year": 2012,
+    "brand": "Bentley",
+    "model": "Continental GT"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Bentley",
-    "MODEL": "Mulsanne"
+    "year": 2012,
+    "brand": "Bentley",
+    "model": "Mulsanne"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Bentley",
-    "MODEL": "Continental GTC"
+    "year": 2012,
+    "brand": "Bentley",
+    "model": "Continental GTC"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Bentley",
-    "MODEL": "Continental Flying Spur"
+    "year": 2012,
+    "brand": "Bentley",
+    "model": "Continental Flying Spur"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Bentley",
-    "MODEL": "Continental Super"
+    "year": 2012,
+    "brand": "Bentley",
+    "model": "Continental Super"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Bentley",
-    "MODEL": "Continental"
+    "year": 2012,
+    "brand": "Bentley",
+    "model": "Continental"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Galant"
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "Galant"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Eclipse"
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "Eclipse"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Outlander"
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "Outlander"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mitsubishi",
-    "MODEL": "i-MiEV"
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "i-MiEV"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Lancer"
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "Lancer"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Mitsubishi",
-    "MODEL": "Outlander Sport"
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "Outlander Sport"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Scion",
-    "MODEL": "xB"
+    "year": 2012,
+    "brand": "Scion",
+    "model": "xB"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Scion",
-    "MODEL": "tC"
+    "year": 2012,
+    "brand": "Scion",
+    "model": "tC"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Scion",
-    "MODEL": "iQ"
+    "year": 2012,
+    "brand": "Scion",
+    "model": "iQ"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Scion",
-    "MODEL": "xD"
+    "year": 2012,
+    "brand": "Scion",
+    "model": "xD"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Ghost"
+    "year": 2012,
+    "brand": "Rolls-Royce",
+    "model": "Ghost"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Phantom"
+    "year": 2012,
+    "brand": "Rolls-Royce",
+    "model": "Phantom"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Maserati",
-    "MODEL": "GranTurismo"
+    "year": 2012,
+    "brand": "Maserati",
+    "model": "GranTurismo"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Maserati",
-    "MODEL": "Quattroporte"
+    "year": 2012,
+    "brand": "Maserati",
+    "model": "Quattroporte"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Maybach",
-    "MODEL": 57
+    "year": 2012,
+    "brand": "Maybach",
+    "model": 57
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Maybach",
-    "MODEL": 62
+    "year": 2012,
+    "brand": "Maybach",
+    "model": 62
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Maybach",
-    "MODEL": "Landaulet"
+    "year": 2012,
+    "brand": "Maybach",
+    "model": "Landaulet"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "McLaren",
-    "MODEL": "MP4-12C"
+    "year": 2012,
+    "brand": "McLaren",
+    "model": "MP4-12C"
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ram",
-    "MODEL": 1500
+    "year": 2012,
+    "brand": "Ram",
+    "model": 1500
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ram",
-    "MODEL": 2500
+    "year": 2012,
+    "brand": "Ram",
+    "model": 2500
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ram",
-    "MODEL": 3500
+    "year": 2012,
+    "brand": "Ram",
+    "model": 3500
   },
   {
-    "YEAR": 2012,
-    "BRAND": "Ram",
-    "MODEL": "C/V"
+    "year": 2012,
+    "brand": "Ram",
+    "model": "C/V"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Taurus"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Taurus"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "C-MAX Hybrid"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "C-MAX Hybrid"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Edge"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Edge"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Escape"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Escape"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Explorer"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Explorer"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Fiesta"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Fiesta"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Flex"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Flex"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Focus"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Focus"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Focus ST"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Focus ST"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Fusion"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Fusion"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Mustang"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Mustang"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Ford",
-    "MODEL": "Transit Connect"
+    "year": 2013,
+    "brand": "Ford",
+    "model": "Transit Connect"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Hyundai",
-    "MODEL": "Veloster"
+    "year": 2013,
+    "brand": "Hyundai",
+    "model": "Veloster"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Hyundai",
-    "MODEL": "Accent"
+    "year": 2013,
+    "brand": "Hyundai",
+    "model": "Accent"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Hyundai",
-    "MODEL": "Elantra"
+    "year": 2013,
+    "brand": "Hyundai",
+    "model": "Elantra"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Hyundai",
-    "MODEL": "Equus"
+    "year": 2013,
+    "brand": "Hyundai",
+    "model": "Equus"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Hyundai",
-    "MODEL": "Genesis Coupe"
+    "year": 2013,
+    "brand": "Hyundai",
+    "model": "Genesis Coupe"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Hyundai",
-    "MODEL": "Sonata"
+    "year": 2013,
+    "brand": "Hyundai",
+    "model": "Sonata"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Chevrolet",
-    "MODEL": "Cruze"
+    "year": 2013,
+    "brand": "Chevrolet",
+    "model": "Cruze"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Chevrolet",
-    "MODEL": "Malibu"
+    "year": 2013,
+    "brand": "Chevrolet",
+    "model": "Malibu"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Chevrolet",
-    "MODEL": "Tahoe"
+    "year": 2013,
+    "brand": "Chevrolet",
+    "model": "Tahoe"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Audi",
-    "MODEL": "S4"
+    "year": 2013,
+    "brand": "Audi",
+    "model": "S4"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "BMW",
-    "MODEL": "X5"
+    "year": 2013,
+    "brand": "BMW",
+    "model": "X5"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "BMW",
-    "MODEL": "X5 M"
+    "year": 2013,
+    "brand": "BMW",
+    "model": "X5 M"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "BMW",
-    "MODEL": "X6"
+    "year": 2013,
+    "brand": "BMW",
+    "model": "X6"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "BMW",
-    "MODEL": "X6 M"
+    "year": 2013,
+    "brand": "BMW",
+    "model": "X6 M"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "GMC",
-    "MODEL": "Sierra 1500"
+    "year": 2013,
+    "brand": "GMC",
+    "model": "Sierra 1500"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "GMC",
-    "MODEL": "Yukon"
+    "year": 2013,
+    "brand": "GMC",
+    "model": "Yukon"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 1500"
+    "year": 2013,
+    "brand": "GMC",
+    "model": "Yukon XL 1500"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "GMC",
-    "MODEL": "Yukon XL 2500"
+    "year": 2013,
+    "brand": "GMC",
+    "model": "Yukon XL 2500"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Infiniti",
-    "MODEL": "JX"
+    "year": 2013,
+    "brand": "Infiniti",
+    "model": "JX"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Jaguar",
-    "MODEL": "XK Series"
+    "year": 2013,
+    "brand": "Jaguar",
+    "model": "XK Series"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Kia",
-    "MODEL": "Rio"
+    "year": 2013,
+    "brand": "Kia",
+    "model": "Rio"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Kia",
-    "MODEL": "Sorento"
+    "year": 2013,
+    "brand": "Kia",
+    "model": "Sorento"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Lexus",
-    "MODEL": "GS"
+    "year": 2013,
+    "brand": "Lexus",
+    "model": "GS"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Lexus",
-    "MODEL": "LX"
+    "year": 2013,
+    "brand": "Lexus",
+    "model": "LX"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Lexus",
-    "MODEL": "RX"
+    "year": 2013,
+    "brand": "Lexus",
+    "model": "RX"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Lincoln",
-    "MODEL": "MKS"
+    "year": 2013,
+    "brand": "Lincoln",
+    "model": "MKS"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Lincoln",
-    "MODEL": "MKT"
+    "year": 2013,
+    "brand": "Lincoln",
+    "model": "MKT"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Lincoln",
-    "MODEL": "MKX"
+    "year": 2013,
+    "brand": "Lincoln",
+    "model": "MKX"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Mazda",
-    "MODEL": "CX-5"
+    "year": 2013,
+    "brand": "Mazda",
+    "model": "CX-5"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Mazda",
-    "MODEL": "MAZDA6"
+    "year": 2013,
+    "brand": "Mazda",
+    "model": "MAZDA6"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Nissan",
-    "MODEL": "Altima"
+    "year": 2013,
+    "brand": "Nissan",
+    "model": "Altima"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Nissan",
-    "MODEL": "GT-R"
+    "year": 2013,
+    "brand": "Nissan",
+    "model": "GT-R"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Porsche",
-    "MODEL": 911
+    "year": 2013,
+    "brand": "Porsche",
+    "model": 911
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Porsche",
-    "MODEL": "Boxster"
+    "year": 2013,
+    "brand": "Porsche",
+    "model": "Boxster"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Porsche",
-    "MODEL": "Cayenne"
+    "year": 2013,
+    "brand": "Porsche",
+    "model": "Cayenne"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Porsche",
-    "MODEL": "Panamera"
+    "year": 2013,
+    "brand": "Porsche",
+    "model": "Panamera"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Rolls-Royce",
-    "MODEL": "Phantom"
+    "year": 2013,
+    "brand": "Rolls-Royce",
+    "model": "Phantom"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Scion",
-    "MODEL": "FR-S"
+    "year": 2013,
+    "brand": "Scion",
+    "model": "FR-S"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Scion",
-    "MODEL": "tC"
+    "year": 2013,
+    "brand": "Scion",
+    "model": "tC"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Subaru",
-    "MODEL": "BRZ"
+    "year": 2013,
+    "brand": "Subaru",
+    "model": "BRZ"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Toyota",
-    "MODEL": "Land Cruiser"
+    "year": 2013,
+    "brand": "Toyota",
+    "model": "Land Cruiser"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Toyota",
-    "MODEL": "Venza"
+    "year": 2013,
+    "brand": "Toyota",
+    "model": "Venza"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Volkswagen",
-    "MODEL": "CC"
+    "year": 2013,
+    "brand": "Volkswagen",
+    "model": "CC"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Volvo",
-    "MODEL": "C30"
+    "year": 2013,
+    "brand": "Volvo",
+    "model": "C30"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Volvo",
-    "MODEL": "C70"
+    "year": 2013,
+    "brand": "Volvo",
+    "model": "C70"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Volvo",
-    "MODEL": "S60"
+    "year": 2013,
+    "brand": "Volvo",
+    "model": "S60"
   },
   {
-    "YEAR": 2013,
-    "BRAND": "Volvo",
-    "MODEL": "XC90;"
+    "year": 2013,
+    "brand": "Volvo",
+    "model": "XC90;"
   }
 ]
