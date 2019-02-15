@@ -1,0 +1,266 @@
+GET http://localhost:8080/cars/id/173
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014925.500.json
+
+###
+
+DELETE http://localhost:8080/cars/delete/173
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014906.200.json
+
+###
+
+GET http://localhost:8080/cars/delete/173
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014853.405.json
+
+###
+
+GET http://localhost:8080/cars/brand/audi
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014824.200.json
+
+###
+
+GET http://localhost:8080/cars/id/348
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014804.200.json
+
+###
+
+POST http://localhost:8080/cars/upload
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014743.200.json
+
+###
+
+GET http://localhost:8080/cars/id/346
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014716.500.json
+
+###
+
+GET http://localhost:8080/cars/id/346
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+GET http://localhost:8080/cars/id/346
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014628.404.json
+
+###
+
+GET http://localhost:8080/cars/id=346
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014611.404.json
+
+###
+
+GET http://localhost:8080/cars/year/2011
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014510.200.json
+
+###
+
+GET http://localhost:8080/cars/year/20011
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014508.200.json
+
+###
+
+GET http://localhost:8080/cars/year/2003
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014502.200.json
+
+###
+
+GET http://localhost:8080/cars/year/1998
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T014457.200.json
+
+###
+
+GET http://localhost:8080/cars/brand/audi
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T013416.200.json
+
+###
+
+POST http://localhost:8080/cars/upload/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+<> 2019-02-15T013309.200.json
+
+###
+
+POST http://localhost:8080/cars/upload/
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080/cars/upload/
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080/cars/upload/
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080/cars/upload/
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080/cars/upload
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080/cars/upload
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080/cars/upload
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+POST http://localhost:8080
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+< C:/Users/Patrick/IdeaProjects/java-cars/cars.json
+
+###
+
+GET http://localhost:8080/cars/year/2013
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/cars/year/2013
+Accept: application/xml
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/resources
+Accept: application/xml
+Cache-Control: no-cache
+
+###
+

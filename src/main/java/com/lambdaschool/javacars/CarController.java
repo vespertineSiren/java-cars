@@ -22,7 +22,7 @@ public class CarController {
     }
 
     //GET functions
-    @GetMapping("/cars/id[id]")
+    @GetMapping("/cars/id/{id}")
     public Car returnCarBasedonID(@PathVariable Long id){
         return carrepo.findById(id).orElseThrow(()-> new CarNotFoundException(id));
     }
